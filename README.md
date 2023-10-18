@@ -11,7 +11,8 @@ A simple and efficient QR code generator built with Python! 🐍
 ```
 pip install -r requirements.txt
 ```
-2. 🚀 Run the script:
+2. Edit the URL for the QR & the file name.
+3. 🚀 Run the script:
 ```
 python main.py
 ```
